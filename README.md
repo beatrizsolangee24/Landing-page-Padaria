@@ -1,6 +1,6 @@
 # Landing Page Padaria (em desenvolvimento)
 
-Projeto de uma landing page para padaria, criado com HTML e CSS, com planos para implementação de JavaScript para melhorar a interatividade.
+Projeto de uma landing page para padaria, criado com HTML e CSS, com planos para implementação de JavaScript para melhorar a interatividade. O projeto ainda está em desenvolvimento, logo, algumas alterações serão feitas ao longo do processo e lançadas aqui no GitHub.
 
 ## Tecnologias usadas
 
