@@ -79,16 +79,14 @@ header{
 }
 
 
-@media screen and (max-width: 1170px){
+@media screen and (max-width: 430px){
     #mobile-btn{
         display: block;
         font-size: 1.5rem;
         color: #EDE2D0;
         cursor: pointer;
-        
-       
-        
-    
+        position: relative;
+        left: 70px;   
 }
     #mobile_menu.active{
         display: flex;
@@ -115,4 +113,24 @@ header{
     #icon-side{
         display: none;
        
-    }}
+
+    }
+    header{
+    width: 30.6%;
+    padding: 28px 8%;
+   height: 80px;
+    background-color: #0D1E26;
+    position: fixed;
+    z-index: 4;
+}
+    #logo{
+    font-family: 'Abril Fatface', sans-serif;
+    font-size:18px;
+    color: #EDE2D0;
+   text-decoration:none;
+   position: relative;
+   right: 70px;
+}
+
+    
+}
